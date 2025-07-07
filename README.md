@@ -108,11 +108,6 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
     src="https://github-readme-stats.vercel.app/api?username=DanielyVasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
   
-</br>
-</br>
-</br>
-</br>
-
   <img
     align="left"
     alt="GitHub Top Languages"
