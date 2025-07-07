@@ -108,9 +108,9 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
   />
 </p>
 
----
 
-## Onde me encontrar:
+
+### Onde me encontrar:
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniely-vasconcelos-b86412188/)
