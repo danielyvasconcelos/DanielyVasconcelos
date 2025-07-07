@@ -110,6 +110,9 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
   
 </br>
 </br>
+</br>
+</br>
+
   <img
     align="left"
     alt="GitHub Top Languages"
