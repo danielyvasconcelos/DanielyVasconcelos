@@ -61,7 +61,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 
 ---
 
-### 📊 Estatísticas (Opcional - Substitua 'SEU_USERNAME' pelo seu usuário do GitHub)
+### 📊 Estatísticas 
 
 <p>
   <img
@@ -69,14 +69,14 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=DanielyVasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img
     align="left"
     alt="GitHub Top Languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielyVasconcelos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
 
