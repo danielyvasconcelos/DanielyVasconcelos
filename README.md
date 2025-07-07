@@ -61,6 +61,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 
 ---
 
+
 ### 📊 Estatísticas 
 
 <p>
@@ -92,6 +93,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 <br/>
+
 ---
 
 ### Onde me encontrar:
