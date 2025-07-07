@@ -6,7 +6,7 @@ Sou natural de União dos Palmares e resido em Maceió. Tenho 25 anos e sou **T�
 
 Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprender e crescer constantemente nessa área. Possuo uma formação sólida e venho investindo em diversos cursos para expandir meus conhecimentos. Estou sempre em busca de novas oportunidades para aprimorar minhas habilidades e evoluir profissionalmente.
 
----
+
 
 ## Minhas Habilidades Técnicas
 ---
@@ -33,7 +33,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
----
+
 
 #### Desenvolvimento Back-end
 ---
@@ -44,7 +44,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 
 <br/>
 <br/>
----
+
 
 #### Bancos de Dados
 ---
@@ -56,7 +56,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
----
+
 
 #### Controle de Versão e Containers
 ---
@@ -68,7 +68,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
----
+
 
 #### Ferramentas de Design & API
 ---
@@ -79,7 +79,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
----
+
 
 #### Ferramentas de Teste
 ---
@@ -90,7 +90,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
----
+
 
 #### Ferramentas de Build & Mobile
 ---
@@ -103,7 +103,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
----
+
 
 ### 📊 Estatísticas
 ---
@@ -138,9 +138,8 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
----
 
-### Onde me encontrar:
+## Onde me encontrar:
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniely-vasconcelos-b86412188/)
