@@ -2,8 +2,6 @@
 
 **`Desenvolvedora FrontEnd `**
 
----
-
 Sou natural de União dos Palmares e resido em Maceió. Tenho 25 anos e sou **Técnica em Informática para Internet** pelo IFAL de Rio Largo. Atualmente, estou cursando **Tecnologia em Sistemas para Internet** na UNCISAL.
 
 Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprender e crescer constantemente nessa área. Possuo uma formação sólida e venho investindo em diversos cursos para expandir meus conhecimentos. Estou sempre em busca de novas oportunidades para aprimorar minhas habilidades e evoluir profissionalmente.
@@ -11,6 +9,8 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 ---
 
 ### Minhas Habilidades Técnicas
+---
+
 #### Linguagens de Programação
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -59,10 +59,11 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
----
 
 
 ### 📊 Estatísticas 
+
+---
 
 <p>
   <img
@@ -94,9 +95,11 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
----
+
 
 ### Onde me encontrar:
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/daniely-vasconcelos-b86412188)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielyvasconcelos)
