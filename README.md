@@ -7,11 +7,10 @@ Sou natural de União dos Palmares e resido em Maceió. Tenho 25 anos e sou **T�
 Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprender e crescer constantemente nessa área. Possuo uma formação sólida e venho investindo em diversos cursos para expandir meus conhecimentos. Estou sempre em busca de novas oportunidades para aprimorar minhas habilidades e evoluir profissionalmente.
 
 ---
-
-### Minhas Habilidades Técnicas
+## Minhas Habilidades Técnicas
 ---
-
 #### Linguagens de Programação
+---
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -21,7 +20,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
-#### Front-end
+#### Desenvolvimento Front-end
 <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
@@ -33,15 +32,20 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
-#### Back-end & Runtime
+---
+#### Desenvolvimento Back-end
+---
+
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express.js" title="Express.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 <img align="left" alt="API" title="API" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/windows/32/api-settings.png" />
 
 <br/>
 <br/>
-
+---
 #### Bancos de Dados
+---
+
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="NoSQL" title="NoSQL (MongoDB)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
@@ -49,7 +53,10 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
-#### Ferramentas e DevOps
+---
+#### Ferramentas
+---
+
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
@@ -60,13 +67,11 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <img align="left" alt="Jest" title="Jest" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 <img align="left" alt="NPM" title="NPM" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Vite" title="Vite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" />
-<img align="left" alt="Expo Go" title="Expo Go" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />
-
-<br/>
+<img align="left" alt="Expo Go" title="Expo Go" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" /> <br/>
 <br/>
 
+---
 ### 📊 Estatísticas
-
 ---
 
 <p>
@@ -99,11 +104,10 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 <br/>
 <br/>
 
+---
 ### Onde me encontrar:
-
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniely-vasconcelos-b86412188)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielyvasconcelos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniely-vasconcelos-b86412188/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielyvasconcelos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielyvasconcelos_?igsh=bHllN3dzcXFicnVm&utm_source=qr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.danielyvasconcelos@gmail.com)
