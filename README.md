@@ -9,7 +9,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 
 
 ## Minhas Habilidades Técnicas
----
+
 
 #### Linguagens de Programação
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
