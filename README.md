@@ -9,6 +9,7 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 ---
 
 ## Minhas Habilidades Técnicas
+---
 
 #### Linguagens de Programação
 ---
@@ -96,7 +97,6 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
   <img
     align="left"
     alt="GitHub Stats"
-    height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=DanielyVasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
@@ -104,27 +104,14 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
   <img
     align="left"
     alt="GitHub Top Languages"
-    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielyVasconcelos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 ---
 
 ## Onde me encontrar:
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniely-vasconcelos-b86412188/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielyvasconcelos)
