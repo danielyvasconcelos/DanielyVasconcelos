@@ -8,8 +8,34 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 
 ---
 
+### 📊 Estatísticas
+
+
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats" 
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=DanielyVasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  
+  <img
+    align="left"
+    alt="GitHub Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielyVasconcelos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## Minhas Habilidades Técnicas
----
 
 #### Linguagens de Programação
 ---
@@ -97,23 +123,6 @@ Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprend
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.danielyvasconcelos@gmail.com)
 
 
-### 📊 Estatísticas
----
-
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=DanielyVasconcelos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  
-  <img
-    align="left"
-    alt="GitHub Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielyVasconcelos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
 
 
 
