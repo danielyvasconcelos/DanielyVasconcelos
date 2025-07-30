@@ -4,8 +4,6 @@
 
 Sou natural de União dos Palmares. Tenho 25 anos e sou **Técnica em Informática para Internet** pelo IFAL de Rio Largo. Atualmente, estou cursando **Tecnologia em Sistemas para Internet** na UNCISAL.
 
-Minha paixão é o **desenvolvimento Front-end**, e estou sempre buscando aprender e crescer constantemente nessa área. Possuo uma formação sólida e venho investindo em diversos cursos para expandir meus conhecimentos. Estou sempre em busca de novas oportunidades para aprimorar minhas habilidades e evoluir profissionalmente.
-
 ---
 
 ### 📊 Estatísticas
