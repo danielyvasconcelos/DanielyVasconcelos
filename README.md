@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Daniely Evellin da Silva Vasconcelos!
 
-**`Desenvolvedora FrontEnd `**
+**`Desenvolvedora Full Stack`**
 
 Sou natural de União dos Palmares. Tenho 25 anos e sou **Técnica em Informática para Internet** pelo IFAL de Rio Largo. Atualmente, estou cursando **Tecnologia em Sistemas para Internet** na UNCISAL.
 
