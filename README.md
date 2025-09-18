@@ -11,8 +11,7 @@
 ```typescript
 const daniely = {
   nome: "Daniely Evellin da Silva Vasconcelos",
-  idade: 25,
-  localização: "União dos Palmares, AL",
+  localização: "Maceió, AL",
   formação: {
     técnico: "Informática para Internet - IFAL Rio Largo",
     superior: "Tecnologia em Sistemas para Internet - UNCISAL"
