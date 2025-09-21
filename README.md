@@ -16,7 +16,8 @@ const daniely = {
     técnico: "Informática para Internet - IFAL Rio Largo",
     superior: "Tecnologia em Sistemas para Internet - UNCISAL"
   },
-  foco: "Desenvolvimento Full Stack",
+  pip-uncisal: "Pesquisadora: Consolidação e Análise de Dados de Máquinas Virtuais para Otimização de Custos em Computação em Nuvem"
+  foco: "Desenvolvimento Back-end",
   paixão: "Criar soluções inovadoras com tecnologia",
   status: "Disponível para oportunidades"
 };
