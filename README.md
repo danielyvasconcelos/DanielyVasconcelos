@@ -116,32 +116,6 @@ const daniely = {
 
 ---
 
-### 🧰 Toolbox (resumo rápido)
-<table>
-  <tr>
-    <td><b>Back-end</b></td>
-    <td>Node.js • Express • FastAPI</td>
-  </tr>
-  <tr>
-    <td><b>Front-end</b></td>
-    <td>React • Next.js • Tailwind • WordPress</td>
-  </tr>
-  <tr>
-    <td><b>Dados</b></td>
-    <td>PostgreSQL • MySQL • MongoDB</td>
-  </tr>
-  <tr>
-    <td><b>Qualidade</b></td>
-    <td>Jest • Cypress</td>
-  </tr>
-  <tr>
-    <td><b>Dev & DevOps</b></td>
-    <td>Git • GitHub • Docker • Postman</td>
-  </tr>
-</table>
-
----
-
 ## 🧪 Projetos
 
 > Alguns projetos que mostram bem meu estilo de trabalho: **automatização**, **produto com interface** e **colaboração em desafio**.
