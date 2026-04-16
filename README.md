@@ -117,102 +117,46 @@ const daniely = {
 ---
 
 ## 🧪 Projetos
+<a id="-projetos"></a>
 
-> Alguns projetos que mostram bem meu estilo de trabalho: **automatização**, **produto com interface** e **colaboração em desafio**.
+### The Task & Cart Challenge
+Desafio do grupo de estudos (Frontend) com duas aplicações: **To‑Do App** + **E‑commerce**, praticando React, consumo de APIs, estado e responsividade.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 Gerador de Documentos (R Pontes Construtora)</h3>
-      <p>
-        Automação para gerar <b>propostas comerciais personalizadas</b> a partir de dados em planilhas Excel,
-        com validações, logs e interface gráfica.
-      </p>
+- To‑Do: CRUD de tarefas + marcação de concluídas  
+- E‑commerce: carrinho, checkout e organização de endpoints  
+- Foco em boas práticas de colaboração (branches/commits)  
 
-      <p>
-        <a href="https://github.com/danielyvasconcelos/gerador-documentos.git" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-0B0F19?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=7C3AED" />
-        </a>
-        <a href="https://github.com/danielyvasconcelos/gerador-documentos/releases/latest" target="_blank">
-          <img src="https://img.shields.io/badge/Releases-0B0F19?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=6D28D9" />
-        </a>
-      </p>
-
-      <p><b>O que eu fiz (na prática):</b></p>
-      <ul>
-        <li><b>Leitura e consolidação</b> de dados em Excel (múltiplas abas).</li>
-        <li><b>Validações</b> (CPF, campos obrigatórios) para reduzir erros.</li>
-        <li>Geração de <b>documentos Word</b> preservando formatação (logos/estilos).</li>
-        <li><b>Logs</b> e relatórios para rastrear falhas e métricas.</li>
-        <li><b>Interface</b> com Tkinter e distribuição por <b>Release</b>.</li>
-      </ul>
-
-      <p><b>Stack:</b> Python • OpenPyXL • python-docx • Tkinter</p>
-      <p><b>Tipo:</b> Automação • Produtividade • Desktop</p>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🛒 The Task & Cart Challenge (ORION)</h3>
-      <p>
-        Desafio em grupo com duas aplicações: <b>To‑Do App</b> + <b>E‑commerce</b>.
-        Aqui eu pratiquei construção de UI, consumo de API e organização do projeto.
-      </p>
-
-      <p>
-        <a href="https://github.com/ORION-GE-FrontEnd/desafio-2-daniely-maria-orion.git" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-0B0F19?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=7C3AED" />
-        </a>
-      </p>
-
-      <p><b>O que esse projeto demonstra:</b></p>
-      <ul>
-        <li><b>To‑Do:</b> CRUD de tarefas + estado de concluídas.</li>
-        <li><b>E‑commerce:</b> carrinho e fluxo de checkout.</li>
-        <li>Consumo de API + tratamento de estados (loading/erro).</li>
-        <li>Prática real de colaboração (commits, branches e organização).</li>
-      </ul>
-
-      <p><b>Stack:</b> React • JavaScript/TypeScript • HTML • CSS</p>
-      <p><b>Tipo:</b> Front-end • Produto • Colaboração</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ Projeto (em andamento) — Cloud & Dados (Pesquisa)</h3>
-      <p>
-        Parte da minha pesquisa envolve <b>consolidar e analisar dados de VMs</b> para <b>otimização de custos</b> em cloud.
-        Ainda não tenho um repositório público “bonito” para mostrar aqui — mas posso transformar isso em um case técnico quando você quiser.
-      </p>
-
-      <p><b>Ideias de entregáveis:</b></p>
-      <ul>
-        <li>Pipeline de coleta → consolidação → análise (CSV/SQL).</li>
-        <li>Dashboard simples com métricas (custos, uso, ociosidade).</li>
-        <li>Recomendações automáticas (rightsizing / desligamentos programados).</li>
-      </ul>
-
-      <p><b>Área:</b> Dados • Cloud • FinOps</p>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>✨ Quer ver mais?</h3>
-      <p>
-        Se você me enviar mais 1–2 links de projetos (ou o tipo de vaga que você quer focar),
-        eu monto mais cards no mesmo padrão — incluindo <b>API</b>, <b>deploy</b> e <b>prints</b>.
-      </p>
-
-      <ul>
-        <li>API Node/Express com autenticação + docs (Swagger)</li>
-        <li>Projeto Full Stack (front + back + banco)</li>
-        <li>Projeto cloud (docker + deploy)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Área:** Front-end • Consumo de API • Estado  
+**Repo:** https://github.com/ORION-GE-FrontEnd/desafio-2-daniely-maria-orion.git
 
 ---
 
+### The Task & Cart Challenge (variação/continuação)
+Segundo link do mesmo repositório (mantive aqui como variação/continuação do desafio).  
+Se você quiser, posso trocar este bloco por outro projeto diferente quando você mandar outro link.
+
+- Organização e consistência do projeto  
+- Evolução incremental (melhorias/refatorações)  
+- Prática real de trabalho em desafio guiado  
+
+**Área:** Front-end • Estrutura de projeto  
+**Repo:** https://github.com/ORION-GE-FrontEnd/desafio-2-daniely-maria-orion.git
+
+---
+
+### Gerador de Documentos (R Pontes Construtora)
+Automação para gerar **propostas comerciais personalizadas** a partir de dados em planilhas Excel, com validações, logs e interface gráfica.
+
+- Leitura de Excel (múltiplas abas) + validações (CPF, campos obrigatórios)  
+- Geração de documentos Word preservando formatação (logos/estilos)  
+- Logs detalhados com métricas + relatórios de erro  
+- Interface gráfica (Tkinter) e opção de executável via Releases  
+
+**Stack:** Python • OpenPyXL • python-docx • Tkinter  
+**Repo:** https://github.com/danielyvasconcelos/gerador-documentos.git  
+**Releases:** https://github.com/danielyvasconcelos/gerador-documentos/releases/latest
+
+---
 ## 📊 GitHub
 
 <div align="center">
