@@ -1,186 +1,129 @@
-<!-- =========================================================
-  Daniely Vasconcelos • Profile README (Dark • Purple)
-  Estrutura NOVA: Dashboard -> Destaques -> Stack (badges) -> Projetos -> GitHub -> Contato
-========================================================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e40c9&height=160&section=header&text=Daniely%20Vasconcelos&fontSize=40&fontColor=ffffff" alt="Daniely Vasconcelos"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <b>Engenharia de Software com foco em IA</b> · LLMs · APIs · Pipelines de Dados
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B0F19,50:4C1D95,100:7C3AED&section=header&text=Daniely%20Vasconcelos&fontSize=42&fontColor=EDE9FE&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Full+Stack+Jr+%7C+Foco+em+Back-end;Cloud+%2B+Dados+%2B+APIs+com+boas+pr%C3%A1ticas;Aprendendo%2C+construindo+e+evoluindo+todos+os+dias" />
-
-<br/><br/>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniely-vasconcelos-b86412188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://huggingface.co/DanielyVasconcelos"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+  <a href="mailto:contato.danielyvasconcelos@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
 ## 🌙 Quem sou eu
 
-Sou **Daniely Evellin da Silva Vasconcelos** (Maceió/AL), **Full Stack Jr com foco em Back-end**.  
-Gosto de construir soluções com base sólida: **APIs**, **dados**, **cloud** e boas práticas (código legível, testes quando faz sentido, e organização).
+Sou **Daniely Vasconcelos**, de Maceió/AL, estudante de **Tecnologia em Sistemas para Internet (Uncisal)**, com conclusão prevista para julho de 2027.
 
-> 🎯 **Objetivo:** Back-end Jr / Full Stack Jr  
-> ✅ **Status:** disponível para oportunidades
+Construo **software que vai para produção**: APIs, pipelines de dados e sistemas usados por pessoas reais, de um hospital escola do SUS a empresas privadas. Hoje direciono essa base para **Engenharia de IA**: integrar LLMs a produtos, construir agentes com RAG e function calling e ajustar modelos com LoRA.
 
-```ts
-const daniely = {
-  nome: "Daniely Evellin da Silva Vasconcelos",
-  localizacao: "Maceió, AL",
-  foco: ["Back-end", "APIs", "Banco de Dados", "Cloud & Dados"],
-  formacao: {
-    tecnico: "Informática para Internet - IFAL (Rio Largo)",
-    superior: "Tecnologia em Sistemas para Internet - UNCISAL"
-  }
-};
-```
+- 💼 **Analista de Sistemas** na Yellow Kite
+- 🔬 **Pesquisadora** em dados de computação em nuvem (PIP/Uncisal)
+- 🏥 **Monitora bolsista** no PET-Saúde I&SD, com projetos de saúde digital no SUS
+- 🧠 **Estudando agora:** LLMs, RAG, agentes de IA, fine-tuning (LoRA) e Deep Learning
 
 ---
 
 ## ⭐ Destaques
 
-> Três frentes que definem minha jornada: **mercado**, **ensino** e **pesquisa aplicada**.
+**🏥 Painel de Chamada de Filas, CER III/Uncisal** · *em produção*
+Painel que organiza as filas de 4 recepções do Centro Especializado em Reabilitação, referência estadual no atendimento à pessoa com deficiência no SUS de Alagoas.
+`Python` `Django` `PostgreSQL` `GitLab`
 
-### 1) Estágio — **Yello**
-- Atuação com desenvolvimento (Full Stack / Back-end), participando de entregas e evolução contínua.
-- Foco em qualidade, organização e colaboração com o time.
-- **Stack:** *(adicione a stack da Yello aqui — ex.: Node.js, TypeScript, PostgreSQL, etc.)*
+**🩺 Sistema de Controle de Exames Periódicos, HEPR/Uncisal** · *em desenvolvimento*
+Sistema web que substitui uma planilha Excel e acompanha automaticamente cada etapa dos exames periódicos dos servidores de um hospital escola (convocação, coleta, consulta e ASO), com painel mensal e indicadores de saúde.
+`Python` `Django` `PostgreSQL`
 
-### 2) **Monitora** — PET/UNCISAL
-- Experiência fortalecendo **comunicação**, **didática** e acompanhamento de evolução técnica.
-- Apoio a atividades acadêmicas e organização de conteúdos.
-- **Temas:** *(adicione: lógica / web / programação / etc.)*
+**☁️ Pesquisa: Dados de Máquinas Virtuais para Otimização de Custos em Nuvem** · *PIP/Uncisal*
+Pipeline que coleta e consolida dados técnicos e de preço de instâncias spot da AWS, Azure e Google Cloud, com API REST e exportação em CSV, JSON e Excel.
+`Python` `FastAPI` `PostgreSQL/TimescaleDB` `Redis` `Celery` `Docker`
 
-### 3) **Pesquisadora** — Cloud (UNCISAL)
-- Projeto: **consolidação e análise de dados de máquinas virtuais (VMs)** para **otimização de custos** em cloud.
-- Conecta cloud + dados com visão prática (pegada **FinOps**).
-- Palavras‑chave: **FinOps • Dados • Otimização • Cloud**
+**🏢 Sistemas internos e automações, Yellow Kite**
+Sistema interno de gestão usado por mais de 50 colaboradores e automações com IA usando n8n e Make.
+`React` `TypeScript` `Supabase` `n8n` `Make`
+
+**🏗️ Sistema de Gestão de Férias, Construtora R Pontes**
+Sistema completo para 50 colaboradores, com controle de acesso por níveis (RBAC), fluxos de aprovação, ETL e dashboards para a diretoria.
+`Python` `Streamlit` `Supabase`
+
+---
+
+## 🤖 Projetos de IA, em construção
+
+| Projeto | O que faz | Stack | Status |
+|---|---|---|---|
+| **Agente de atendimento para restaurante** | Chat que responde sobre cardápio e alergênicos com RAG, monta pedidos por function calling e tem guardrail de alergênicos | FastAPI · Gemini · Docker | 🚧 em desenvolvimento |
+| **Classificador de avaliações de delivery** | Ajuste fino com LoRA de um modelo pequeno para classificar avaliações em português por tema e sentimento | Hugging Face · PEFT · Colab | 🚧 em desenvolvimento |
+
+> Os links entram aqui assim que cada projeto estiver publicado.
+
+---
+
+## 🧪 Outros projetos
+
+**📄 [Gerador de Documentos](https://github.com/danielyvasconcelos/gerador-documentos)**
+Automação que gera propostas comerciais em Word a partir de planilhas Excel, com validações (CPF, campos obrigatórios), logs com métricas e interface gráfica. [Baixar executável](https://github.com/danielyvasconcelos/gerador-documentos/releases/latest)
+`Python` `OpenPyXL` `python-docx` `Tkinter`
+
+**🛒 [The Task & Cart Challenge](https://github.com/ORION-GE-FrontEnd/desafio-2-daniely-maria-orion)** · *Orion UFAL*
+To-Do App e e-commerce com carrinho e checkout, consumindo APIs, feitos em dupla com fluxo de branches e commits.
+`React` `TypeScript` `Vite` `Tailwind`
 
 ---
 
 ## 🧩 Stack
 
-> Minha stack é organizada por “o que eu resolvo” (API, UI, dados, deploy), não só por ferramentas.
+**IA e Dados**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### Core (uso com mais frequência)
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0B0F19?style=for-the-badge&logo=javascript&logoColor=0B0F19&labelColor=A78BFA" />
-  <img src="https://img.shields.io/badge/TypeScript-0B0F19?style=for-the-badge&logo=typescript&logoColor=EDE9FE&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/Node.js-0B0F19?style=for-the-badge&logo=node.js&logoColor=EDE9FE&labelColor=6D28D9" />
-  <img src="https://img.shields.io/badge/React-0B0F19?style=for-the-badge&logo=react&logoColor=EDE9FE&labelColor=8B5CF6" />
-</p>
+**Back-end e APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### Back-end & APIs
-<p>
-  <img src="https://img.shields.io/badge/Express-0B0F19?style=for-the-badge&logo=express&logoColor=EDE9FE&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/FastAPI-0B0F19?style=for-the-badge&logo=fastapi&logoColor=EDE9FE&labelColor=6D28D9" />
-</p>
+**Bancos de dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### Front-end
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0B0F19?style=for-the-badge&logo=html5&logoColor=EDE9FE&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/CSS3-0B0F19?style=for-the-badge&logo=css3&logoColor=EDE9FE&labelColor=6D28D9" />
-  <img src="https://img.shields.io/badge/Tailwind-0B0F19?style=for-the-badge&logo=tailwindcss&logoColor=EDE9FE&labelColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Next.js-0B0F19?style=for-the-badge&logo=next.js&logoColor=EDE9FE&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/WordPress-0B0F19?style=for-the-badge&logo=wordpress&logoColor=EDE9FE&labelColor=6D28D9" />
-</p>
+**Front-end**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Bancos de Dados
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0B0F19?style=for-the-badge&logo=postgresql&logoColor=EDE9FE&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/MySQL-0B0F19?style=for-the-badge&logo=mysql&logoColor=EDE9FE&labelColor=6D28D9" />
-  <img src="https://img.shields.io/badge/MongoDB-0B0F19?style=for-the-badge&logo=mongodb&logoColor=EDE9FE&labelColor=8B5CF6" />
-</p>
-
-### Testes & Qualidade
-<p>
-  <img src="https://img.shields.io/badge/Jest-0B0F19?style=for-the-badge&logo=jest&logoColor=EDE9FE&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/Cypress-0B0F19?style=for-the-badge&logo=cypress&logoColor=EDE9FE&labelColor=6D28D9" />
-</p>
-
-### Ferramentas, DevOps & Fluxo
-<p>
-  <img src="https://img.shields.io/badge/Git-0B0F19?style=for-the-badge&logo=git&logoColor=EDE9FE&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=6D28D9" />
-  <img src="https://img.shields.io/badge/Docker-0B0F19?style=for-the-badge&logo=docker&logoColor=EDE9FE&labelColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Postman-0B0F19?style=for-the-badge&logo=postman&logoColor=EDE9FE&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/Figma-0B0F19?style=for-the-badge&logo=figma&logoColor=EDE9FE&labelColor=6D28D9" />
-  <img src="https://img.shields.io/badge/VS_Code-0B0F19?style=for-the-badge&logo=visualstudiocode&logoColor=EDE9FE&labelColor=8B5CF6" />
-</p>
-
-### Mobile
-<p>
-  <img src="https://img.shields.io/badge/Expo-0B0F19?style=for-the-badge&logo=expo&logoColor=EDE9FE&labelColor=7C3AED" />
-  <img src="https://img.shields.io/badge/Android_Studio-0B0F19?style=for-the-badge&logo=androidstudio&logoColor=EDE9FE&labelColor=6D28D9" />
-</p>
+**DevOps e Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
-## 🧪 Projetos
-<a id="-projetos"></a>
-
-### The Task & Cart Challenge
-Desafio do grupo de estudos (Frontend) com duas aplicações: **To‑Do App** + **E‑commerce**, praticando React, consumo de APIs, estado e responsividade.
-
-- To‑Do: CRUD de tarefas + marcação de concluídas  
-- E‑commerce: carrinho, checkout e organização de endpoints  
-- Foco em boas práticas de colaboração (branches/commits)  
-
-**Área:** Front-end • Consumo de API • Estado  
-**Repo:** https://github.com/ORION-GE-FrontEnd/desafio-2-daniely-maria-orion.git
-
----
-
-### The Task & Cart Challenge (variação/continuação)
-Segundo link do mesmo repositório (mantive aqui como variação/continuação do desafio).  
-Se você quiser, posso trocar este bloco por outro projeto diferente quando você mandar outro link.
-
-- Organização e consistência do projeto  
-- Evolução incremental (melhorias/refatorações)  
-- Prática real de trabalho em desafio guiado  
-
-**Área:** Front-end • Estrutura de projeto  
-**Repo:** https://github.com/ORION-GE-FrontEnd/desafio-2-daniely-maria-orion.git
-
----
-
-### Gerador de Documentos (R Pontes Construtora)
-Automação para gerar **propostas comerciais personalizadas** a partir de dados em planilhas Excel, com validações, logs e interface gráfica.
-
-- Leitura de Excel (múltiplas abas) + validações (CPF, campos obrigatórios)  
-- Geração de documentos Word preservando formatação (logos/estilos)  
-- Logs detalhados com métricas + relatórios de erro  
-- Interface gráfica (Tkinter) e opção de executável via Releases  
-
-**Stack:** Python • OpenPyXL • python-docx • Tkinter  
-**Repo:** https://github.com/danielyvasconcelos/gerador-documentos.git  
-**Releases:** https://github.com/danielyvasconcelos/gerador-documentos/releases/latest
-
----
 ## 📊 GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielyVasconcelos&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F19&title_color=7C3AED&icon_color=A78BFA&text_color=EDE9FE" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielyVasconcelos&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F19&title_color=7C3AED&text_color=EDE9FE" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielyVasconcelos&hide_border=true&background=0B0F19&stroke=7C3AED&ring=A78BFA&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=EDE9FE&dates=9CA3AF&sideNums=EDE9FE" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielyVasconcelos&bg_color=0B0F19&color=EDE9FE&line=7C3AED&point=A78BFA&area=true&hide_border=true" />
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=danielyvasconcelos&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyvasconcelos&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens"/>
+</p>
 
 ---
 
 ## 💜 Contato
 
-Se você busca alguém com **base**, **organização** e vontade de crescer com o time, eu topo conversar.
+Aberta a oportunidades de **estágio em Engenharia de IA e Engenharia de Software**.
 
-- 📩 **Email:** contato.danielyvasconcelos@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/daniely-vasconcelos-b86412188/
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B0F19,50:4C1D95,100:7C3AED&section=footer&text=&fontSize=0" width="100%"/>
-</div>
+📩 contato.danielyvasconcelos@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/daniely-vasconcelos-b86412188/) · 🤗 [Hugging Face](https://huggingface.co/DanielyVasconcelos)
